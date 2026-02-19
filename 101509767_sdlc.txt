@@ -17,3 +17,7 @@ DevOps improves SDLC by:
 By integrating DevOps practices into SDLC, 
 organizations can deliver software faster, 
 with better quality and fewer failures.
+
+Testing Phase:
+Testing ensures the software functions correctly and 
+meets user requirements before deployment.
