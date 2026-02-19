@@ -21,3 +21,7 @@ Continuous Integration and Continuous Deployment (CI/CD):
 CI ensures code is automatically tested after each change.
 CD allows automated deployment to production environments.
 
+Example Workflow:
+Developers create branches, make changes locally, 
+push to GitHub, and submit pull requests for review.
+
