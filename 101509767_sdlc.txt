@@ -21,3 +21,7 @@ with better quality and fewer failures.
 Testing Phase:
 Testing ensures the software functions correctly and 
 meets user requirements before deployment.
+
+Monitoring and Feedback:
+After deployment, monitoring tools track performance 
+and detect issues in real time.
