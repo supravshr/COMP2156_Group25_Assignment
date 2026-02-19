@@ -16,3 +16,8 @@ team collaboration, and DevOps culture.
 
 It prepares students to work in modern IT environments 
 where automation and continuous delivery are important.
+
+Continuous Integration and Continuous Deployment (CI/CD):
+CI ensures code is automatically tested after each change.
+CD allows automated deployment to production environments.
+
