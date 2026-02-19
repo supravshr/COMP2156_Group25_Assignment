@@ -1,0 +1,16 @@
+George Brown College Overview
+
+George Brown College is a public college located in Toronto, Canada. 
+It offers diploma, advanced diploma, and postgraduate programs in 
+technology, business, health sciences, hospitality, and more.
+
+The college focuses on hands-on learning and industry-relevant skills. 
+Many programs include practical labs, real-world projects, and 
+co-op opportunities that prepare students for employment.
+
+As a student in the Computer Systems Technician program, 
+I gain practical experience in networking, Linux, Windows Server, 
+virtualization, and cloud technologies.
+
+George Brown emphasizes applied education, teamwork, 
+and career readiness.
