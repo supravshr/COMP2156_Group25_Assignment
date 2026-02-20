@@ -10,3 +10,6 @@ pull requests, and CI workflows.
 CI/CD:
 Continuous Integration ensures code is tested automatically.
 Continuous Deployment automates software release.
+
+Workflow:
+Developers create branches, commit locally, and submit pull requests.
