@@ -7,3 +7,5 @@ The college emphasizes hands-on learning and industry-focused education.
 Students participate in labs and real-world projects.
 
 As a student, I gain practical technical skills and teamwork experience.
+Campus Information:
+The college has multiple campuses in downtown Toronto.
