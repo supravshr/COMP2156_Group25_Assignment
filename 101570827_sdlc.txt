@@ -1,0 +1,28 @@
+DevOps in the Software Development Life Cycle (SDLC)
+
+The Software Development Life Cycle (SDLC) includes stages such as:
+- Planning
+- Design
+- Development
+- Testing
+- Deployment
+- Maintenance
+
+DevOps improves SDLC by:
+- Automating builds and testing
+- Enabling continuous integration
+- Reducing deployment errors
+- Improving collaboration between teams
+
+By integrating DevOps practices into SDLC, 
+organizations can deliver software faster, 
+with better quality and fewer failures.
+
+DevOps in the Software Development Life Cycle (SDLC)
+
+The SDLC includes planning, design, development,
+testing, deployment, and maintenance.
+
+Testing and Monitoring:
+Testing ensures the software works correctly before release.
+After deployment, systems are monitored to detect errors and performance issues.
