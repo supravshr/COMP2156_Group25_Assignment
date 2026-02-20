@@ -4,3 +4,7 @@ DevOps combines development and operations to improve collaboration,
 automation, and delivery speed.
 
 In COMP2156, we learn Git, branching, pull requests, and CI concepts.
+
+Git Workflow:
+Developers create feature branches, commit changes locally,
+push to GitHub, and open pull requests for review and merging.
