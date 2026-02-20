@@ -26,3 +26,10 @@ COMP2156 DevOps Course Overview
 
 DevOps combines development and operations practices.
 It focuses on collaboration and automation.
+
+In this course we learn:
+- Git version control
+- Branching and merging
+- Pull requests
+- Continuous Integration (CI)
+- Continuous Deployment (CD)
