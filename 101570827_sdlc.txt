@@ -22,3 +22,7 @@ DevOps in the Software Development Life Cycle (SDLC)
 
 The SDLC includes planning, design, development,
 testing, deployment, and maintenance.
+
+Testing and Monitoring:
+Testing ensures the software works correctly before release.
+After deployment, systems are monitored to detect errors and performance issues.
