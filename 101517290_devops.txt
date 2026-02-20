@@ -22,3 +22,15 @@ after every commit. This helps detect errors early.
 
 Continuous Deployment (CD) automates the release process, 
 reducing manual effort and improving delivery speed.
+
+
+Git Workflow Example:
+
+Developers create feature branches, make changes locally,
+push to GitHub, and submit pull requests for review.
+Git Workflow Example:
+
+Developers create feature branches, make changes locally,
+push to GitHub, and submit pull requests for review.
+After approval, changes are merged into the main branch.
+
