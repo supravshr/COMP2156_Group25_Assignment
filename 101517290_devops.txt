@@ -1,0 +1,36 @@
+COMP2156 DevOps Course Overview
+
+DevOps combines development and operations to improve collaboration,
+automation, and delivery speed.
+
+In COMP2156, we learn Git, branching, pull requests, and CI concepts.
+
+Git Workflow:
+Developers create feature branches, commit changes locally,
+push to GitHub, and open pull requests for review and merging.
+
+
+CI/CD:
+Continuous Integration automatically tests code changes.
+Continuous Deployment automates releases to reduce manual work and errors.
+
+
+CI/CD Explanation:
+
+Continuous Integration (CI) automatically builds and tests code 
+after every commit. This helps detect errors early.
+
+Continuous Deployment (CD) automates the release process, 
+reducing manual effort and improving delivery speed.
+
+
+Git Workflow Example:
+
+Developers create feature branches, make changes locally,
+push to GitHub, and submit pull requests for review.
+Git Workflow Example:
+
+Developers create feature branches, make changes locally,
+push to GitHub, and submit pull requests for review.
+After approval, changes are merged into the main branch.
+
