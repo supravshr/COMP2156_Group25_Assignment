@@ -13,3 +13,12 @@ push to GitHub, and open pull requests for review and merging.
 CI/CD:
 Continuous Integration automatically tests code changes.
 Continuous Deployment automates releases to reduce manual work and errors.
+
+
+CI/CD Explanation:
+
+Continuous Integration (CI) automatically builds and tests code 
+after every commit. This helps detect errors early.
+
+Continuous Deployment (CD) automates the release process, 
+reducing manual effort and improving delivery speed.
