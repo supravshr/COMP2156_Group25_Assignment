@@ -1,0 +1,6 @@
+COMP2156 DevOps Course Overview
+
+DevOps combines development and operations to improve collaboration,
+automation, and delivery speed.
+
+In COMP2156, we learn Git, branching, pull requests, and CI concepts.
