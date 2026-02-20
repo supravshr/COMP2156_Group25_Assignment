@@ -16,3 +16,8 @@ team collaboration, and DevOps culture.
 
 It prepares students to work in modern IT environments 
 where automation and continuous delivery are important.
+
+COMP2156 DevOps Course Overview
+
+DevOps combines development and operations practices.
+It focuses on collaboration and automation.
