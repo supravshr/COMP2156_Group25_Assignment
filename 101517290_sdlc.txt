@@ -4,3 +4,8 @@ The SDLC includes planning, requirements, design, development,
 testing, deployment, and maintenance.
 
 DevOps improves SDLC by adding automation and continuous feedback.
+
+
+Testing:
+Testing validates functionality and reduces bugs before deployment.
+Automated testing helps teams detect issues earlier.
