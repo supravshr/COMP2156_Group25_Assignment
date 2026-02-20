@@ -21,3 +21,8 @@ COMP2156 DevOps Course Overview
 
 DevOps combines development and operations practices.
 It focuses on collaboration and automation.
+
+COMP2156 DevOps Course Overview
+
+DevOps combines development and operations practices.
+It focuses on collaboration and automation.
