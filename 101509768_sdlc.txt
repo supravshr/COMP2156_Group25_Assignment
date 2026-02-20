@@ -8,3 +8,7 @@ DevOps improves SDLC by automating testing and deployment.
 
 Testing:
 Testing verifies that the software meets requirements.
+
+
+Monitoring:
+After deployment, systems are monitored for performance and errors.
