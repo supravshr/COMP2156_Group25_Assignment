@@ -4,3 +4,7 @@ The SDLC includes planning, design, development,
 testing, deployment, and maintenance.
 
 DevOps improves SDLC by automating testing and deployment.
+
+
+Testing:
+Testing verifies that the software meets requirements.
