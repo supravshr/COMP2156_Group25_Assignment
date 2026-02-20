@@ -8,3 +8,8 @@ In COMP2156, we learn Git, branching, pull requests, and CI concepts.
 Git Workflow:
 Developers create feature branches, commit changes locally,
 push to GitHub, and open pull requests for review and merging.
+
+
+CI/CD:
+Continuous Integration automatically tests code changes.
+Continuous Deployment automates releases to reduce manual work and errors.
